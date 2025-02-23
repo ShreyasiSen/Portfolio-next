@@ -1,25 +1,25 @@
 // testimonial data
 const testimonialData = [
   {
+    image: '/t-avt-5.jpg',
+    name: 'Chayan Ghosh',
+    position: 'Peer',
+    message:
+      'She is an exceptional frontend developer. Her attention to detail and ability to translate ideas into visually stunning designs make her a great asset to any project. Working with her has always been a seamless and insightful experience.',
+  },
+  {
+    image: '/t-avt-4.png',
+    name: 'Shamindra Sen',
+    position: 'Senior Software Developer',
+    message:
+      'A passionate developer with a keen eye for design. She has a unique ability to blend creativity with functionality, ensuring that every project she works on is both aesthetically pleasing and highly efficient.',
+  },
+  {
     image: '/t-avt-1.png',
-    name: 'Anne Smith',
-    position: 'Customer',
+    name: 'Anita Sinha',
+    position: 'User',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
-  },
-  {
-    image: '/t-avt-2.png',
-    name: 'Jane Doe',
-    position: 'Customer',
-    message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
-  },
-  {
-    image: '/t-avt-3.png',
-    name: 'Jhon Doe',
-    position: 'Customer',
-    message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      'Her work exceeded my expectations! The user interface was not only beautiful but also highly intuitive. She truly understands how to create a seamless and engaging user experience.',
   },
 ];
 

@@ -1,6 +1,5 @@
-import Circles from "../../components/Circles";
-
 import { BsArrowRight } from "react-icons/bs";
+import Circles from "../../components/Circles";
 
 import {motion} from 'framer-motion';
 import {fadeIn} from '../../variants';
@@ -8,6 +7,7 @@ import {fadeIn} from '../../variants';
 const Contact = () => {
   return (
     <div className='h-full bg-primary/30'>
+      <Circles />
       <div className='container mx-auto py-32 text-center xl:text-left flex items-center
       justify-center h-full'>
         {/*text & form*/}
@@ -26,7 +26,7 @@ const Contact = () => {
          initial="hidden"
          animate="show"
          exit="hidden"
-         className='flex-1 flex flex-col gap-6 w-full mx-auto overflow-visible'>
+         className='flex-1 flex flex-col gap-6 w-full mx-auto overflow-visible z-10'>
           {/*input group*/}
           <div className='flex gap-x-6 w-full'>
             <input type="text" placeholder='name' className='input'/>
