@@ -5,10 +5,13 @@
 .translate-z-0 {
   transform: translateZ(0px);
 }
+
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets
   .swiper-pagination-bullet {
-  background-color: #f13024;
+  background-color: white !important; /* Change bullet color to white */
+  width: 10px !important; /* Increase bullet size */
+  height: 10px !important;
 }
 
 .swiper-button-next:after,
@@ -16,6 +19,10 @@
 .swiper-button-next:after,
 .swiper-rtl .swiper-button-prev:after {
   color: #f13024;
+}
+
+.swiper-pagination {
+  bottom: 10px !important; /* Ensure pagination is below the pictures */
 }
 
 @layer base {

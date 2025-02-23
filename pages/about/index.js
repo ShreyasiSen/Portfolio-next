@@ -65,8 +65,9 @@ const aboutData = [
         marks: '94.8%',
       },
       {
-        title: 'Btech - Computer Science Engineering (2021-2025)',
+        title: 'Btech(CSE) - Techno Main Salt Lake (2021-2025)',
         marks: '8.5 CGPA',
+        
       },
     ],
   },
