@@ -15,23 +15,23 @@ const workSlider = {
       images: [
         {
           title: "Project 1",
-          path: "/nail4.png",
-          link: "https://mbbconsultancy.in/",
+          path: "/nail1.png",
+          link: "https://shrey-sheets-frontend.vercel.app/",
         },
         {
           title: "Project 2",
-          path: "/nail5.png",
-          link: "https://mbbconsultancy.in/",
+          path: "/nail2.png",
+          link: "https://shrey-sheets-frontend.vercel.app/",
         },
         {
           title: "Project 3",
-          path: "/nail6.png",
-          link: "https://mbbconsultancy.in/",
+          path: "/nail3.png",
+          link: "https://shrey-sheets-frontend.vercel.app/",
         },
         {
           title: "Project 4",
-          path: "/nail7.png",
-          link: "https://mbbconsultancy.in/",
+          path: "/nail8.png",
+          link: "https://shrey-sheets-frontend.vercel.app/",
         },
       ],
     },
@@ -39,23 +39,23 @@ const workSlider = {
       images: [
         {
           title: "Project 5",
-          path: "/nail1.png",
-          link: "https://shrey-sheets-frontend.vercel.app/",
+          path: "/nail4.png",
+          link: "",
         },
         {
           title: "Project 6",
-          path: "/nail2.png",
-          link: "https://shrey-sheets-frontend.vercel.app/",
+          path: "/nail5.png",
+          link: "",
         },
         {
           title: "Project 7",
-          path: "/nail3.png",
-          link: "https://shrey-sheets-frontend.vercel.app/",
+          path: "/nail6.png",
+          link: "",
         },
         {
           title: "Project 8",
-          path: "/nail8.png",
-          link: "https://shrey-sheets-frontend.vercel.app/",
+          path: "/nail7.png",
+          link: "",
         },
       ],
     },

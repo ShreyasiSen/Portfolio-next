@@ -54,6 +54,12 @@ const aboutData = [
       {
         title: 'Software Developer Intern - MBB. Consultancy Services Pvt. Ltd.',
         stage: '2023 - 2024',
+        details: [
+        "Built a website, leading to a 40% increase in client engagement and improving user satisfaction by 60%.",
+        "Created a data processing system using Node.js and Express.js, resulting in a 40% reduction in processing time and improving data accuracy by 50%.",
+        "Used Tailwind CSS for a responsive design, reducing website loading time by 30% and receiving positive feedback from 90% of users.",
+        "Integrated Nodemailer to automate email communication, increasing efficiency by 70% and ensuring timely responses to client inquiries."
+      ]
       },
     ],
   },
@@ -153,7 +159,7 @@ const About = () => {
                   <div className='font-light mb-2 md:mb-0'>{item.title}</div>
                   <div className='hidden md:flex'>-</div>
                   <div>{item.marks}</div>
-                  <div >{item.stage}</div>
+                  <div >{item.details}</div>
                   <div className='flex gap-x-4'>
                     {item.icons?.map((icon, itemIndex) => {
                       return (
