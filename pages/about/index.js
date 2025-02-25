@@ -93,7 +93,7 @@ const About = () => {
   const [index, setIndex] = useState(0);
   //console.log(index);
   return (
-    <div className='h-full bg-primary/30 py-36 text-center xl:text-left overflow-y-auto max-h-[calc(100vh-80px)] overflow-x-auto'>
+    <div className='h-full bg-primary/30 py-36 text-center xl:text-left overflow-y-auto max-h-[calc(100vh-80px)]'>
       <Circles />
       {/*avatar img*/}
       <motion.div
