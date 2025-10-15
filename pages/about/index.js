@@ -122,8 +122,8 @@ const About = () => {
            exit="hidden"
            className='max-w-[500px] mx-auto
            xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'>
-            I’m a final-year B.Tech Computer Science
-            student passionate about turning ideas into reality.
+            I’m a B.Tech Computer Science
+            graduate passionate about turning ideas into reality.
             A full-stack developer with hands-on experience in production,
             I build engaging applications that make a difference.
             As a competitive programmer, I thrive on solving complex problems with
