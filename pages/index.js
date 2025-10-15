@@ -35,7 +35,7 @@ const Home = () => {
           animate="show" 
           exit="hidden"
           className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'>
-            I&apos;m a full stack web developer and competitive coder who loves to create interactive,
+            Currently,I&apos;m an Upcoming Systems Engineer at TCS (Prime).I&apos;m also a full stack web developer and competitive coder who loves to create interactive,
             engaging websites and grinding DSA problems.
           </motion.p>
           {/*btn*/}
